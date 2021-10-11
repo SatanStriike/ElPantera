@@ -1,0 +1,138 @@
+{
+    "menu": [
+        {
+            "tacos": [
+            {
+              "nombre": "Panucho de Cochinita",
+              "descripcion": "Tostada de cochinita pibil (3 unds) con crema de frijoles, cebollas encurtidas y cilantro",
+              "precio": 17.5,
+              "image": "../Assets/images/"
+            },
+            {
+              "nombre": "Taco de Chorizo y Papa",
+              "descripcion": "Tacos de chorizo rojo (3 unds) con salsa de tomate tatemados, papa criolla y cebolla con cilantro",
+              "precio": 17.5,
+              "image": "../Assets/images/"
+            },
+            {
+              "nombre": "Chicharrón Ahumado x 3",
+              "descripcion": "Tacos de chicharrón ahumado (3 unds), salsa de guayaba, chile morita y cebolla con cilantro.",
+              "precio": 17.5,
+              "image": "../Assets/images/"
+            },
+            {
+              "nombre": "Berenjena Pibil x 3",
+              "descripcion": "Tacos de berenjena pibil (3 unds) con aguacate y cebolla con cilantro.",
+              "precio": 17.5,
+              "image": "../Assets/images/"
+            },
+            {
+              "nombre": "Camarones Rebosados x 3",
+              "descripcion": "Tacos de camarones (3 unds) con salsa de maní y cebollas encurtidas.",
+              "precio": 17.5,
+              "image": "../Assets/images/"
+            },
+            {
+              "nombre": "Costra de Tinga de Pollo",
+              "descripcion": "Tacos de pollo (3 unds) con salsa de chiles, tomates, quesillo y cebolla con cilantro",
+              "precio": 17.5,
+              "image": "../Assets/images/"
+            }
+          ]
+        },
+        {
+            "quesadillas": [
+                {
+                  "nombre": "Quesadilla de Arequipe",
+                  "descripcion": "Quesadilla con quesillo del caquetá y arequipe de búfala.",
+                  "precio": 10.5,
+                  "image": "../Assets/images/"
+                },
+                {
+                  "nombre": "Quesadilla de Chicharrón",
+                  "descripcion": "Quesadilla rellenas dequeso del caquetá, chicharrón ahumado y cebollas encurtidas.",
+                  "precio": 10.5,
+                  "image": "../Assets/images/"
+                },
+                {
+                  "nombre": "Quesadilla de Chorizo",
+                  "descripcion": "Quesadilla con quesillo del caquetá, chorizo pantera y cebollas encurtidas.",
+                  "precio": 10.5,
+                  "image": "../Assets/images/"
+                },
+                {
+                  "nombre": "Quesadilla de Frijoles Pantera",
+                  "descripcion": "Quesadilla con quesillo del caquetá, frijoles y cebollas encurtidas.",
+                  "precio": 10.5,
+                  "image": "../Assets/images/"
+                },
+                {
+                  "nombre": "Quesadilla de Berenjena",
+                  "descripcion": "Quesadilla con quesillo del caquetá, berenjena pibil y cebollas encurtidas.",
+                  "precio": 10.5,
+                  "image": "../Assets/images/"
+                }
+            ]
+        },
+        {
+            "bebidas": [
+                {
+                  "nombre": "Manantial Sin Gas 300 ml",
+                  "descripcion": "Aguas",
+                  "precio": 3.0,
+                  "image": "../Assets/images/"
+                },
+                {
+                  "nombre": "Club Colombia Dorada 330 ml",
+                  "descripcion": "Cervezas",
+                  "precio": 6.0,
+                  "image": "../Assets/images/"
+                },
+                {
+                  "nombre": "Manantial Con Gas 300 ml",
+                  "descripcion": "Aguas",
+                  "precio": 3.0,
+                  "image": "../Assets/images/"
+                },
+                {
+                  "nombre": "Horchata",
+                  "descripcion": "Horchata de vainilla con canela",
+                  "precio": 5.0,
+                  "image": "../Assets/images/"
+                }
+            ]
+        },
+        {
+            "entradas": [
+                {
+                  "nombre": "Nachos con Guacamole",
+                  "descripcion": "Nachos con guacamole",
+                  "precio": 8.5,
+                  "image": "../Assets/images/"
+                }
+            ]
+        },
+        {
+            "varios": [
+                {
+                  "nombre": "Esquites",
+                  "descripcion": "Mazorca desgranada, maíz crocante, mayonesa de ajo, queso, limón y aceite de chile morita.",
+                  "precio": 8.5,
+                  "image": "../Assets/images/"
+                },
+                {
+                  "nombre": "El Pantera",
+                  "descripcion": "Esquites costeños, mazorca desgranada, maíz crocante de los montes de Maria, suero y queso costeño con tacos de chicharrón, 3 tacos de chicharrón con salsa de guayaba y chile morita con Club Colombia",
+                  "precio": 35.0,
+                  "image": "../Assets/images/"
+                },
+                {
+                  "nombre": "Torta de Cochinita Pibil",
+                  "descripcion": "Torta de Cochinita Pibil ",
+                  "precio": 18.5,
+                  "image": "../Assets/images/"
+                }
+            ]
+        }
+    ]
+}
